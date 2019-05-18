@@ -10,3 +10,4 @@ public class Lista1Ex02 {
         System.out.println("Sua disciplina é: "+disciplina);
     }
 }
+
